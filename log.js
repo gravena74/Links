@@ -1,6 +1,6 @@
 button = document.querySelector('.switch')
-
-
+ 
+ 
 button.addEventListener('click', function aaa(){
     const html = document.documentElement
 
